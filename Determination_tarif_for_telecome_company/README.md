@@ -12,5 +12,14 @@
 ## Задача
 Проанализирвать поведение клиентов и обучить модель классификации, которая определит, какой из новых тарифов предложить клиентам, использующим архивные тарифы
 
-Используемые библиотеки
-Python, Pandas, Matplotlib, numpy, SciPy, Math, Seaborn
+## Используемые библиотеки
+Matplotlib, 
+NumPy, 
+Pandas, 
+Python, 
+Scikit-Learn, 
+SciPy, 
+Statistics, 
+Statistical Hypothesis testing, 
+Math, 
+Seaborn
