@@ -1,5 +1,3 @@
-() | Разработка модели регрессии, которая должна сможет определять возраст покупателей по фото, сделанном в прикассовой зоне магазина. Необходимо, чтобы показатель метрики MAE был не более 8 | Research Departments, R&D Centers, Institutes, Science City Residents, Information Security, Retail, E-commerce, Startups, IT Companys,Business Services [b2b] | ** |
-
 ## Age_recognition_by_photo -  Разработка метода преобразования данных, чтобы по ним было сложно восстановить персональную информацию клиентов страховой компании
 
 ## Цель
