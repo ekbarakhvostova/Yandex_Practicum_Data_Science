@@ -1,4 +1,4 @@
-# GamesAnalysis - Анализ компьютерных игр
+# GamesAnalysis 
 
 
 ## Цель
