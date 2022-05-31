@@ -1,17 +1,14 @@
-## Age_recognition_by_photo -  Разработка метода преобразования данных, чтобы по ним было сложно восстановить персональную информацию клиентов страховой компании
+## Age_recognition_by_photo
 
-## Цель
-Разработка модели регрессии, которая должна сможет определять возраст покупателей по фото, сделанном в прикассовой зоне магазина. Необходимо, чтобы показатель метрики MAE был не более 8
+## Task
+Development of a regression model that should be able to determine the age of customers from a photo taken in the checkout area of ​​a store.
 
-## Вывод
+## Conclusion
+To work on the project, the following were provided: a marked up table with the names of photographs, a target attribute and a folder with images.
+I developed a model with the ResNet50 architecture, training was carried out on 10 epochs, and the training set was augmented.
+On the test sample, we managed to achieve MAE 6.51.
 
-Во время работы над проектом были предоставлены: размеченная таблица с названиями фотографий, целевым признаком и папка с изображениями. 
-
-Была обучена модель с архитектурой ResNet50, обучение производилось на 10 эпохах, тренировочная выборка была аугментирована.
-
-На тестовой выборке удалось достичь показателя MAE 6.51
-
-## Используемые библиотеки и навыки
+## Used Libraries and Skills
 NumPy, 
 Tensorflow, 
 Keras, 
@@ -20,7 +17,7 @@ Pandas,
 Python, 
 Seaborn, 
 Matplotlib,
-компьютерное зрение
+Computer vision 
 
 ## Статус проекта
 
