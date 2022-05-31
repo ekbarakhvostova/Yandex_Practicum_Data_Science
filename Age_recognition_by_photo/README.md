@@ -19,6 +19,5 @@ Seaborn,
 Matplotlib,
 Computer vision 
 
-## Статус проекта
-
-Дорабатывается
+## Project status
+In the process
