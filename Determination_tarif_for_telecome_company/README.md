@@ -4,13 +4,10 @@
 For a telecom company: based on the data of the mobile operators customers using archived tariffs I analyzed of their behavior and defined optimal for company and customers new tariff plan: "Smart" or "Ultra"
 
 ## Conclusion
-Проведен предварительный анализ использования тарифов на выборке клиентов, проанализировано поведение клиентов при использовании услуг оператора и рекомендованы оптимальные наборы услуг для пользователей. 
+I made a preliminary analysis of customer behavior when using the operator's services and recommended the optimal set of services for users.
+I prepared a model that is able to analyze customer behavior and offer users a new tariff. The model was built with the highest possible accuracy. The share of correct answers has been increased to 0.71. The accuracy was checked on a test sample. The model was checked for adequacy by comparison with the DummyClassifier model.
 
-Разработана модель, способная анализировать поведение клиентов и предлагать пользователям новый тариф. 
-Модель была построена с максимально возможной точностью. Доля правильных ответов доведена до 0,71. Точность проверялась на тестовом образце.
-Модель проверена на адекватность путем сравнения с моделью DummyClassifier: 'most_frequent', 'stratified', 'uniform'.
-
-## Используемые библиотеки
+## Libraries used
 Matplotlib, 
 NumPy, 
 Pandas, 
@@ -22,6 +19,5 @@ Statistical Hypothesis testing,
 Math, 
 Seaborn
 
-## Статус проекта
-
-Завершен
+## Project Status
+Completed
